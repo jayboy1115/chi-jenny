@@ -1,0 +1,7 @@
+public class Group {
+   
+     public static void main(String[] args) {
+      
+     System.out.print("%s%d%f%n%b%c", "i am johnson" 27, 2.5, "true", 'y');
+     }
+} 
